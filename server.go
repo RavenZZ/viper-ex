@@ -20,5 +20,5 @@ func main() {
 	// 	fmt.Printf("key:%v   val: %v \n", k, v)
 	// }
 
-	pkg1.GetConfig()
+	pkg1.PrintConfig()
 }
